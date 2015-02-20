@@ -1,0 +1,32 @@
+Micah Alconcel's Log for HW2B
+Additional Enrichments: Sound on press, diff layouts for land/port
+
+Date: 9/18/13
+Problem: Didn't know how to update the screen.
+Source: http://stackoverflow.com/questions/3075149/in-android-is-there-a-similar-method-to-the-repaint-in-java
+Solution: They told me to use the invalidate() method to repaint.
+
+Date: 9/19/13
+Problem: Didn't know how to specify that the motionevent or something that I need to detect is a single tap.
+Source: http://stackoverflow.com/questions/9910293/how-to-detect-single-touch-as-well-as-multi-touch-in-ontouchevent
+Solution: Guy told me that the variable ACTION_UP was the one used for single taps.
+
+Date: 9/21/13
+Problem: Had no idea how to play a sound when the button was pressed.
+Source: http://stackoverflow.com/questions/3369068/android-play-sound-on-button-click-null-pointer-exception
+Solution: Guy said something about an oncompletionlistener, and how it works! Also basically used this for playing
+background music.
+
+Date: 9/22/13
+Problem: Needed paint methods for setting color using values from seekbar
+Source: http://developer.android.com/reference/android/graphics/Paint.html
+Solution: website had 'em all laid out
+
+Date: 9/23/13
+Problem: Needed music to continue playing on orientation change
+Source T.J. Agne
+Solution: He ran into a similar problem; he just had it restart on the OnRestoreInstanceState thingy.
+
+NOTES ABOUT MUSIC/SOUNDS
+Music is from Bit.Trip Runner 2 (Re-Fusion). Sounds are from the first Bit.Trip Runner.
+The idea of having to make the four, a seven, a one, and a zero came from Riddle School 5.

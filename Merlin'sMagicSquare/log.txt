@@ -1,0 +1,12 @@
+Micah Alconcel's Log for HW 2
+Date: 9/17/13
+Source: http://stackoverflow.com/questions/151777/saving-activity-state-in-android
+Problem: Needed to find out how to stop the squares from re-randomizing whenever the thing was rotated. 
+
+Date: 9/17/13
+Source: Moodle (uploaded by Vegdahl)
+Problem: Couldn't remember how to draw stuff, so I pretty much used the program uploaded on the moodle page as a basis.
+
+
+
+
